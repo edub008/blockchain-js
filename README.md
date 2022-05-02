@@ -1,6 +1,6 @@
-# Blockchain-NodeJs
+# Blockchain Node.js POW
 
-This is a testing/academic implementation of Blockchain using Node.js 
+This is a testing/academic implementation of Blockchain using Node.js and Proof-of-Work consensus algorithm
 
 ## Dependencies
 
