@@ -2,6 +2,13 @@
 
 This is a testing/educational implementation of a Node.js Blockchain crytocurrency that uses the Proof-of-Work consensus algorithm.
 
+## Features
+
+* Simple proof-of-work algorithm
+* Verify blockchain (to prevent tampering)
+* Generate wallet (private/public key)
+* Sign transactions
+
 ## Dependencies
 
 - Node v17.4.0+
