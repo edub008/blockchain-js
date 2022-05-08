@@ -1,6 +1,6 @@
 # Blockchain Node.js POW
 
-This is a testing/academic implementation of Blockchain using Node.js and Proof-of-Work consensus algorithm
+This is a testing/educational implementation of a Node.js Blockchain crytocurrency that uses the Proof-of-Work consensus algorithm.
 
 ## Dependencies
 
