@@ -2,7 +2,7 @@ const {BlockChain, Transaction} = require('./blockchain')
 const EC = require('elliptic').ec
 const ec = new EC('secp256k1')
 
-const myKey = ec.keyFromPrivate('a8dc0d62a0a9ad28ecab870166e39b46b8f965ae634ed692cf2efa355424f3fe')
+const myKey = ec.keyFromPrivate('a8dc0d62a0a9ad.........')
 const myWalletAddress = myKey.getPublic('hex')
 
 let erginCoin = new BlockChain()
