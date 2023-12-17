@@ -25,3 +25,20 @@ Downloads and installs all required project dependencies
 ### `yarn run test` or `yarn test`
 
 Runs the test application.
+
+### Sample Output
+
+```js
+$ yarn test
+yarn run v1.22.19
+$ echo "Testing package...
+" && node ./src/main.js
+Testing package...
+
+Starting the miner...
+Block mined: 00000789c4091882771b14c500fd2c48b6f8be15fbe2f05e617446041ec8250b
+Block successfully mined!
+
+Balance of bob is 90
+pending transactions -> []
+```
