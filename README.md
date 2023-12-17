@@ -26,7 +26,7 @@ Downloads and installs all required project dependencies
 
 Runs the test application.
 
-### Sample Output
+## Sample Output
 
 ```js
 $ yarn test
